@@ -23,19 +23,21 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/jorge852001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="jorge852001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in /jorge-urbina-3b801862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/linked-in-alt.svg" alt="jorge-urbina-3b801862" height="30" width="40" /></a>
+<a href="https://twitter.com/jorge852001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="jorge852001" height="40" width="40" />
+
+<a href="https://linkedin.com/in /jorge-urbina-3b801862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/linked-in-alt.svg" alt="jorge-urbina-3b801862" height="30" width="40" />
 </p>
 
 <h3 align="left">Idiomas y Herramientas:</h3>
 <p align="left">
   <a>
+  </a> 
+  </p>
+
   Odoo sh
   SAP B1
   Hana DB
   Sql DB
   Oracle DB
-  </a> 
-  </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjurbina86&show_icons=true&locale=en&layout=compact" alt="jjurbina86" /> </p>
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langusername=jjurbina86&show_icons=true&locale=en&layout=compact" alt="jjurbina86" /> </p>
