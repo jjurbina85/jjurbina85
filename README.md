@@ -17,7 +17,7 @@
 
 - 📫 Cómo contactarme **jorgeadalurbina@gmail.com**
 
-- 📄 Conoce mis experiencias  <a href="https://twitter.com/jorge852001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/linked-in-alt.svg" alt="jorge852001" height="40" width="40" />
+- 📄 Conoce mis experiencias  <a href="https://www.linkedin.com/in/jorge-urbina-hn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/linked-in-alt.svg" alt="jorge852001" height="40" width="40" />
 
 - ⚡ Dato curioso **Me gusta el fútbol, ​​pasar un ambiente de trabajo agradable y hacer el trabajo relajado y divertido. **
 
