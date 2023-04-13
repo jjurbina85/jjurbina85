@@ -13,8 +13,6 @@
 
 - 🤝 Busco ayuda con **SAP BO, Odoo, Scrum Master, BI, Loocker Google, Power BI**
 
-- 📝 Regularmente escribo artículos en [https://www.linkedin.com/in/jorge-urbina-3b801862/](https: //www.linkedin.com/in/jorge-urbina-3b801862/)
-
 - 📫 Cómo contactarme **jorgeadalurbina@gmail.com**
 
 - 📄 Conoce mis experiencias  <a href="https://www.linkedin.com/in/jorge-urbina-hn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/linked-in-alt.svg" alt="jorge852001" height="40" width="40" />
