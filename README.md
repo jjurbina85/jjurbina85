@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjurbina86&label=Profile%20views&color=0e75b6&style=flat" alt="jjurbina86" /> < /p>
 
-<p align="left"> <a href="https://twitter.com/jorge852001" target="blank"><img src="https://img.shields.io/twitter/follow /jorge852001?logo=twitter&style=for-the-badge" alt="jorge852001" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jorge852001" target="blank"><img src="https://img.shields.io/twitter/follow /jorge852001?logo=twitter&style=for-the-badge" alt="jorge852001" /> </p>
 
 - 🔭 Actualmente trabajo en [Inversiones Aliadas]
 
